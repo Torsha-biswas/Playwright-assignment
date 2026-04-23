@@ -22,6 +22,14 @@ Page Object Model is used
 Separate classes for Login, Profile, and Book Store pages
 Reusable methods for better structure
 API Automation (ReqRes)
+Framework:
+Page Object Model (POM)
+Separate page classes for better structure
+Reusable methods for actions
+Browser Support:
+Chrome ✔
+Firefox ✔
+WebKit ⚠ (skipped due to application instability)
 
 API used: https://reqres.in/api
 
